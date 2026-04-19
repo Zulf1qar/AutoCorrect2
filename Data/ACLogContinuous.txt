@@ -335,3 +335,5 @@ Intended for use with kunkel321's 'AutoCorrect for v2' package.  Log of all auto
 2026-04-20 -- :*:dont::don't
 2026-04-20 -- :*?:neeed::need
 2026-04-20 -- :*C:i ::I 
+2026-04-20 -- :*:dont::don't
+2026-04-20 -- :*C:i ::I 
