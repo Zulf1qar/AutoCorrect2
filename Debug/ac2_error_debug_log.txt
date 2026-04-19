@@ -9,3 +9,489 @@ Debug: Apr-11 11:43:41: FilterWordLists called, isLoaded=0, isLoading=1
 Debug: Apr-11 11:43:43: FilterWordLists called, isLoaded=0, isLoading=1
 Debug: Apr-11 11:43:50: FilterWordLists called, isLoaded=0, isLoading=1
 Debug: Apr-11 11:55:24: FilterWordLists called, isLoaded=0, isLoading=1
+Debug: apr-17 11:42:51: ======[SCRIPT START]======
+Debug: apr-17 11:42:52: In UI class, at top of _CreateExamPane()
+Debug: apr-17 11:42:52: In UI class, at top of _CreateControlPane()
+Debug: apr-17 11:42:52: Successfully registered activation hotkey after delay: #h
+Debug: apr-17 11:42:52: Starting to load word frequency data
+Debug: apr-17 11:42:52: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-17 11:42:52: Word frequency data loaded - Unique words: 89581
+Debug: apr-17 11:42:52: Duplicate entries found: 0
+Debug: apr-17 11:42:52: Skipped lines: 0
+Debug: apr-17 11:43:01: ======[SCRIPT START]======
+Debug: apr-17 11:43:01: In UI class, at top of _CreateExamPane()
+Debug: apr-17 11:43:01: In UI class, at top of _CreateControlPane()
+Debug: apr-17 11:43:01: Successfully registered activation hotkey after delay: #h
+Debug: apr-17 11:43:02: Starting to load word frequency data
+Debug: apr-17 11:43:02: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-17 11:43:02: Word frequency data loaded - Unique words: 89581
+Debug: apr-17 11:43:02: Duplicate entries found: 0
+Debug: apr-17 11:43:02: Skipped lines: 0
+Debug: apr-17 11:44:08: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-17 11:46:26: ======[SCRIPT START]======
+Debug: apr-17 11:46:26: In UI class, at top of _CreateExamPane()
+Debug: apr-17 11:46:26: In UI class, at top of _CreateControlPane()
+Debug: apr-17 11:46:27: Successfully registered activation hotkey after delay: #h
+Debug: apr-17 11:46:27: Starting to load word frequency data
+Debug: apr-17 11:46:27: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-17 11:46:27: Word frequency data loaded - Unique words: 89581
+Debug: apr-17 11:46:27: Duplicate entries found: 0
+Debug: apr-17 11:46:27: Skipped lines: 0
+Debug: apr-17 11:46:31: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-17 11:58:17: ======[SCRIPT START]======
+Debug: apr-17 11:58:17: In UI class, at top of _CreateExamPane()
+Debug: apr-17 11:58:17: In UI class, at top of _CreateControlPane()
+Debug: apr-17 11:58:17: Successfully registered activation hotkey after delay: #h
+Debug: apr-17 11:58:18: Starting to load word frequency data
+Debug: apr-17 11:58:18: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-17 11:58:18: Word frequency data loaded - Unique words: 89581
+Debug: apr-17 11:58:18: Duplicate entries found: 0
+Debug: apr-17 11:58:18: Skipped lines: 0
+Debug: apr-18 12:03:41: ======[SCRIPT START]======
+Debug: apr-18 12:03:42: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:03:42: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:03:42: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:03:42: Starting to load word frequency data
+Debug: apr-18 12:03:42: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:03:42: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:03:42: Duplicate entries found: 0
+Debug: apr-18 12:03:42: Skipped lines: 0
+Debug: apr-18 12:04:39: ======[SCRIPT START]======
+Debug: apr-18 12:04:39: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:04:39: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:04:40: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:04:40: Starting to load word frequency data
+Debug: apr-18 12:04:40: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:04:40: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:04:40: Duplicate entries found: 0
+Debug: apr-18 12:04:40: Skipped lines: 0
+Debug: apr-18 12:06:26: ======[SCRIPT START]======
+Debug: apr-18 12:06:26: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:06:26: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:06:26: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:06:27: Starting to load word frequency data
+Debug: apr-18 12:06:27: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:06:27: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:06:27: Duplicate entries found: 0
+Debug: apr-18 12:06:27: Skipped lines: 0
+Debug: apr-18 12:07:02: ======[SCRIPT START]======
+Debug: apr-18 12:07:03: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:07:03: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:07:03: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:07:03: Starting to load word frequency data
+Debug: apr-18 12:07:03: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:07:03: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:07:03: Duplicate entries found: 0
+Debug: apr-18 12:07:03: Skipped lines: 0
+Debug: apr-18 12:15:53: ======[SCRIPT START]======
+Debug: apr-18 12:15:53: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:15:53: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:15:53: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:15:53: Starting to load word frequency data
+Debug: apr-18 12:15:53: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:15:53: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:15:53: Duplicate entries found: 0
+Debug: apr-18 12:15:53: Skipped lines: 0
+Debug: apr-18 12:17:59: ======[SCRIPT START]======
+Debug: apr-18 12:17:59: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:17:59: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:17:59: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:17:59: Starting to load word frequency data
+Debug: apr-18 12:17:59: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:17:59: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:17:59: Duplicate entries found: 0
+Debug: apr-18 12:17:59: Skipped lines: 0
+Debug: apr-18 12:19:37: ======[SCRIPT START]======
+Debug: apr-18 12:19:37: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:19:37: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:19:37: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:19:37: Starting to load word frequency data
+Debug: apr-18 12:19:37: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:19:37: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:19:37: Duplicate entries found: 0
+Debug: apr-18 12:19:37: Skipped lines: 0
+Debug: apr-18 12:23:38: ======[SCRIPT START]======
+Debug: apr-18 12:23:38: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:23:38: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:23:39: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:23:39: Starting to load word frequency data
+Debug: apr-18 12:23:39: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:23:39: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:23:39: Duplicate entries found: 0
+Debug: apr-18 12:23:39: Skipped lines: 0
+Debug: apr-18 12:31:21: ======[SCRIPT START]======
+Debug: apr-18 12:31:21: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:31:21: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:31:22: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:31:22: Starting to load word frequency data
+Debug: apr-18 12:31:22: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:31:22: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:31:22: Duplicate entries found: 0
+Debug: apr-18 12:31:22: Skipped lines: 0
+Debug: apr-18 12:40:17: ======[SCRIPT START]======
+Debug: apr-18 12:40:17: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:40:17: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:40:17: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:40:18: Starting to load word frequency data
+Debug: apr-18 12:40:18: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:40:18: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:40:18: Duplicate entries found: 0
+Debug: apr-18 12:40:18: Skipped lines: 0
+Debug: apr-18 12:45:12: ======[SCRIPT START]======
+Debug: apr-18 12:45:12: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:45:12: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:45:12: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 12:45:12: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:45:12: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:45:12: Duplicate entries found: 0
+Debug: apr-18 12:45:12: Skipped lines: 0
+Debug: apr-18 12:45:12: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:45:12: About to call ExamineWords
+Debug: apr-18 12:45:12: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 12:45:12: just before UIActions.ExamineWords()
+Debug: apr-18 12:45:12: At top of ExamineWords() method
+Debug: apr-18 12:45:12: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:45:13: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:45:13: WordFrequency: Total frequency calculated: 6767295
+Debug: apr-18 12:45:13: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:45:13: At bottom of ExamineWords() method
+Debug: apr-18 12:45:13: just after UIActions.ExamineWords()
+Debug: apr-18 12:45:13: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:45:13: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:45:13: WordFrequency: Total frequency calculated: 6767295
+Debug: apr-18 12:46:00: ======[SCRIPT START]======
+Debug: apr-18 12:46:00: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:46:00: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:46:00: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 12:46:00: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:46:00: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:46:00: Duplicate entries found: 0
+Debug: apr-18 12:46:00: Skipped lines: 0
+Debug: apr-18 12:46:00: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:46:01: About to call ExamineWords
+Debug: apr-18 12:46:01: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 12:46:01: just before UIActions.ExamineWords()
+Debug: apr-18 12:46:01: At top of ExamineWords() method
+Debug: apr-18 12:46:01: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:46:01: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:46:01: WordFrequency: Total frequency calculated: 488024109
+Debug: apr-18 12:46:01: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:46:01: At bottom of ExamineWords() method
+Debug: apr-18 12:46:01: just after UIActions.ExamineWords()
+Debug: apr-18 12:46:01: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:46:01: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:46:01: WordFrequency: Total frequency calculated: 488024109
+Debug: apr-18 12:49:03: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:50:23: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:50:45: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:50:45: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:50:45: WordFrequency: Total frequency calculated: 369928941
+Debug: apr-18 12:50:56: At top of ExamineWords() method
+Debug: apr-18 12:50:56: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:50:56: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:50:56: WordFrequency: Total frequency calculated: 369928941
+Debug: apr-18 12:50:56: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:50:56: At bottom of ExamineWords() method
+Debug: apr-18 12:50:56: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:50:56: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:50:56: WordFrequency: Total frequency calculated: 369928941
+Debug: apr-18 12:51:58: ======[SCRIPT START]======
+Debug: apr-18 12:51:58: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:51:58: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:51:58: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 12:51:58: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:51:58: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:51:58: Duplicate entries found: 0
+Debug: apr-18 12:51:58: Skipped lines: 0
+Debug: apr-18 12:51:58: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:51:58: About to call ExamineWords
+Debug: apr-18 12:51:58: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 12:51:58: just before UIActions.ExamineWords()
+Debug: apr-18 12:51:58: At top of ExamineWords() method
+Debug: apr-18 12:51:58: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:51:58: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:51:58: WordFrequency: Total frequency calculated: 32128221
+Debug: apr-18 12:51:58: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:51:58: At bottom of ExamineWords() method
+Debug: apr-18 12:51:58: just after UIActions.ExamineWords()
+Debug: apr-18 12:51:58: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:51:58: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:51:58: WordFrequency: Total frequency calculated: 32128221
+Debug: apr-18 12:52:08: ======[SCRIPT START]======
+Debug: apr-18 12:52:08: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:52:08: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:52:08: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 12:52:08: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:52:08: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:52:08: Duplicate entries found: 0
+Debug: apr-18 12:52:08: Skipped lines: 0
+Debug: apr-18 12:52:08: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:52:09: About to call ExamineWords
+Debug: apr-18 12:52:09: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 12:52:09: just before UIActions.ExamineWords()
+Debug: apr-18 12:52:09: At top of ExamineWords() method
+Debug: apr-18 12:52:09: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:52:09: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:52:09: WordFrequency: Total frequency calculated: 13243591
+Debug: apr-18 12:52:09: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:52:09: At bottom of ExamineWords() method
+Debug: apr-18 12:52:09: just after UIActions.ExamineWords()
+Debug: apr-18 12:52:09: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:52:09: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:52:09: WordFrequency: Total frequency calculated: 13243591
+Debug: apr-18 12:52:26: ======[SCRIPT START]======
+Debug: apr-18 12:52:26: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:52:26: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:52:26: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 12:52:26: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:52:26: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:52:26: Duplicate entries found: 0
+Debug: apr-18 12:52:26: Skipped lines: 0
+Debug: apr-18 12:52:26: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:52:26: About to call ExamineWords
+Debug: apr-18 12:52:26: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 12:52:26: just before UIActions.ExamineWords()
+Debug: apr-18 12:52:26: At top of ExamineWords() method
+Debug: apr-18 12:52:26: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:52:26: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:52:26: WordFrequency: Total frequency calculated: 56421594
+Debug: apr-18 12:52:26: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:52:26: At bottom of ExamineWords() method
+Debug: apr-18 12:52:26: just after UIActions.ExamineWords()
+Debug: apr-18 12:52:26: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:52:27: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:52:27: WordFrequency: Total frequency calculated: 56421594
+Debug: apr-18 12:52:36: ======[SCRIPT START]======
+Debug: apr-18 12:52:36: In UI class, at top of _CreateExamPane()
+Debug: apr-18 12:52:36: In UI class, at top of _CreateControlPane()
+Debug: apr-18 12:52:36: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 12:52:36: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 12:52:36: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 12:52:36: Duplicate entries found: 0
+Debug: apr-18 12:52:37: Skipped lines: 0
+Debug: apr-18 12:52:37: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 12:52:37: About to call ExamineWords
+Debug: apr-18 12:52:37: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 12:52:37: just before UIActions.ExamineWords()
+Debug: apr-18 12:52:37: At top of ExamineWords() method
+Debug: apr-18 12:52:37: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:52:37: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:52:37: WordFrequency: Total frequency calculated: 6907063
+Debug: apr-18 12:52:37: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 12:52:37: At bottom of ExamineWords() method
+Debug: apr-18 12:52:37: just after UIActions.ExamineWords()
+Debug: apr-18 12:52:37: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 12:52:37: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 12:52:37: WordFrequency: Total frequency calculated: 6907063
+Debug: apr-18 01:35:01: ======[SCRIPT START]======
+Debug: apr-18 01:35:01: In UI class, at top of _CreateExamPane()
+Debug: apr-18 01:35:01: In UI class, at top of _CreateControlPane()
+Debug: apr-18 01:35:01: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 01:35:01: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 01:35:01: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 01:35:01: Duplicate entries found: 0
+Debug: apr-18 01:35:01: Skipped lines: 0
+Debug: apr-18 01:35:01: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 01:35:01: About to call ExamineWords
+Debug: apr-18 01:35:01: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 01:35:01: just before UIActions.ExamineWords()
+Debug: apr-18 01:35:01: At top of ExamineWords() method
+Debug: apr-18 01:35:01: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:01: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:01: WordFrequency: Total frequency calculated: 35345925
+Debug: apr-18 01:35:01: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 01:35:01: At bottom of ExamineWords() method
+Debug: apr-18 01:35:01: just after UIActions.ExamineWords()
+Debug: apr-18 01:35:01: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:01: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:01: WordFrequency: Total frequency calculated: 35345925
+Debug: apr-18 01:35:07: ======[SCRIPT START]======
+Debug: apr-18 01:35:07: In UI class, at top of _CreateExamPane()
+Debug: apr-18 01:35:07: In UI class, at top of _CreateControlPane()
+Debug: apr-18 01:35:07: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 01:35:07: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 01:35:07: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 01:35:07: Duplicate entries found: 0
+Debug: apr-18 01:35:08: Skipped lines: 0
+Debug: apr-18 01:35:08: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 01:35:08: About to call ExamineWords
+Debug: apr-18 01:35:08: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 01:35:08: just before UIActions.ExamineWords()
+Debug: apr-18 01:35:08: At top of ExamineWords() method
+Debug: apr-18 01:35:08: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:08: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:08: WordFrequency: Total frequency calculated: 20976724
+Debug: apr-18 01:35:08: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 01:35:08: At bottom of ExamineWords() method
+Debug: apr-18 01:35:08: just after UIActions.ExamineWords()
+Debug: apr-18 01:35:08: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:08: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:08: WordFrequency: Total frequency calculated: 20976724
+Debug: apr-18 01:35:14: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:14: WordFrequency: Processed 2 words, found 2 in frequency database
+Debug: apr-18 01:35:14: WordFrequency: Total frequency calculated: 21262762
+Debug: apr-18 01:35:14: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:14: WordFrequency: Processed 2 words, found 2 in frequency database
+Debug: apr-18 01:35:14: WordFrequency: Total frequency calculated: 21262762
+Debug: apr-18 01:35:15: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:15: WordFrequency: Processed 2 words, found 2 in frequency database
+Debug: apr-18 01:35:15: WordFrequency: Total frequency calculated: 21262762
+Debug: apr-18 01:35:17: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:17: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:17: WordFrequency: Total frequency calculated: 20976724
+Debug: apr-18 01:35:19: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:19: WordFrequency: Processed 2 words, found 2 in frequency database
+Debug: apr-18 01:35:19: WordFrequency: Total frequency calculated: 21262762
+Debug: apr-18 01:35:20: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:20: WordFrequency: Processed 2 words, found 2 in frequency database
+Debug: apr-18 01:35:20: WordFrequency: Total frequency calculated: 21262762
+Debug: apr-18 01:35:50: ======[SCRIPT START]======
+Debug: apr-18 01:35:50: In UI class, at top of _CreateExamPane()
+Debug: apr-18 01:35:50: In UI class, at top of _CreateControlPane()
+Debug: apr-18 01:35:50: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 01:35:50: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 01:35:50: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 01:35:50: Duplicate entries found: 0
+Debug: apr-18 01:35:50: Skipped lines: 0
+Debug: apr-18 01:35:50: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 01:35:50: About to call ExamineWords
+Debug: apr-18 01:35:50: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 01:35:50: just before UIActions.ExamineWords()
+Debug: apr-18 01:35:50: At top of ExamineWords() method
+Debug: apr-18 01:35:50: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:50: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:50: WordFrequency: Total frequency calculated: 9162147
+Debug: apr-18 01:35:50: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 01:35:50: At bottom of ExamineWords() method
+Debug: apr-18 01:35:50: just after UIActions.ExamineWords()
+Debug: apr-18 01:35:51: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 01:35:51: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 01:35:51: WordFrequency: Total frequency calculated: 9162147
+Debug: apr-18 03:53:53: ======[SCRIPT START]======
+Debug: apr-18 03:53:53: In UI class, at top of _CreateExamPane()
+Debug: apr-18 03:53:53: In UI class, at top of _CreateControlPane()
+Debug: apr-18 03:53:53: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 03:53:53: Starting to load word frequency data
+Debug: apr-18 03:53:53: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 03:53:54: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 03:53:54: Duplicate entries found: 0
+Debug: apr-18 03:53:54: Skipped lines: 0
+Debug: apr-18 04:04:40: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:04:47: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:04:47: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:04:47: WordFrequency: Total frequency calculated: 2813163874
+Debug: apr-18 04:04:47: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:04:47: WordFrequency: Total frequency calculated: 2813163874
+Debug: apr-18 04:04:52: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:04:52: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:04:52: WordFrequency: Total frequency calculated: 2813163874
+Debug: apr-18 04:04:53: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:04:53: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:04:53: WordFrequency: Total frequency calculated: 2813163874
+Debug: apr-18 04:04:56: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:04:56: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:04:56: WordFrequency: Total frequency calculated: 2813163874
+Debug: apr-18 04:04:56: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:04:56: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:04:56: WordFrequency: Total frequency calculated: 2813163874
+Debug: apr-18 04:05:34: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:05:34: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:05:34: WordFrequency: Total frequency calculated: 525627757
+Debug: apr-18 04:05:45: At top of ExamineWords() method
+Debug: apr-18 04:05:45: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:05:45: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:05:45: WordFrequency: Total frequency calculated: 525627757
+Debug: apr-18 04:05:45: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 04:05:45: At bottom of ExamineWords() method
+Debug: apr-18 04:05:45: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:05:45: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:05:45: WordFrequency: Total frequency calculated: 525627757
+Debug: apr-18 04:11:55: ======[SCRIPT START]======
+Debug: apr-18 04:11:55: In UI class, at top of _CreateExamPane()
+Debug: apr-18 04:11:55: In UI class, at top of _CreateControlPane()
+Debug: apr-18 04:11:55: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 04:11:55: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 04:11:55: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 04:11:55: Duplicate entries found: 0
+Debug: apr-18 04:11:55: Skipped lines: 0
+Debug: apr-18 04:11:55: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 04:11:55: About to call ExamineWords
+Debug: apr-18 04:11:55: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 04:11:55: just before UIActions.ExamineWords()
+Debug: apr-18 04:11:55: At top of ExamineWords() method
+Debug: apr-18 04:11:55: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:11:55: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:11:55: WordFrequency: Total frequency calculated: 90010174
+Debug: apr-18 04:11:55: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 04:11:55: At bottom of ExamineWords() method
+Debug: apr-18 04:11:55: just after UIActions.ExamineWords()
+Debug: apr-18 04:11:55: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:11:55: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:11:55: WordFrequency: Total frequency calculated: 90010174
+Debug: apr-18 04:12:07: ======[SCRIPT START]======
+Debug: apr-18 04:12:07: In UI class, at top of _CreateExamPane()
+Debug: apr-18 04:12:07: In UI class, at top of _CreateControlPane()
+Debug: apr-18 04:12:07: LoadSync called - isLoaded=0, isLoading=0
+Debug: apr-18 04:12:07: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 04:12:07: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 04:12:07: Duplicate entries found: 0
+Debug: apr-18 04:12:07: Skipped lines: 0
+Debug: apr-18 04:12:07: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 04:12:07: About to call ExamineWords
+Debug: apr-18 04:12:07: WordFrequency state before ExamineWords: isLoaded=1
+Debug: apr-18 04:12:07: just before UIActions.ExamineWords()
+Debug: apr-18 04:12:07: At top of ExamineWords() method
+Debug: apr-18 04:12:07: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:12:07: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:12:07: WordFrequency: Total frequency calculated: 90010174
+Debug: apr-18 04:12:07: In ExamineWords() method, before second mainForm.show
+Debug: apr-18 04:12:07: At bottom of ExamineWords() method
+Debug: apr-18 04:12:07: just after UIActions.ExamineWords()
+Debug: apr-18 04:12:07: FilterWordLists called, isLoaded=1, isLoading=0
+Debug: apr-18 04:12:07: WordFrequency: Processed 1 words, found 1 in frequency database
+Debug: apr-18 04:12:07: WordFrequency: Total frequency calculated: 90010174
+Debug: apr-18 04:30:41: ======[SCRIPT START]======
+Debug: apr-18 04:30:41: In UI class, at top of _CreateExamPane()
+Debug: apr-18 04:30:41: In UI class, at top of _CreateControlPane()
+Debug: apr-18 04:30:41: Successfully registered activation hotkey after delay: #h
+Debug: apr-18 04:30:41: Starting to load word frequency data
+Debug: apr-18 04:30:41: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-18 04:30:41: Word frequency data loaded - Unique words: 89581
+Debug: apr-18 04:30:41: Duplicate entries found: 0
+Debug: apr-18 04:30:41: Skipped lines: 0
+Debug: apr-19 01:39:56: ======[SCRIPT START]======
+Debug: apr-19 01:39:56: In UI class, at top of _CreateExamPane()
+Debug: apr-19 01:39:56: In UI class, at top of _CreateControlPane()
+Debug: apr-19 01:39:56: Successfully registered activation hotkey after delay: #h
+Debug: apr-19 01:39:56: Starting to load word frequency data
+Debug: apr-19 01:39:56: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-19 01:39:57: Word frequency data loaded - Unique words: 89581
+Debug: apr-19 01:39:57: Duplicate entries found: 0
+Debug: apr-19 01:39:57: Skipped lines: 0
+Debug: apr-19 08:43:02: ======[SCRIPT START]======
+Debug: apr-19 08:43:02: In UI class, at top of _CreateExamPane()
+Debug: apr-19 08:43:02: In UI class, at top of _CreateControlPane()
+Debug: apr-19 08:43:02: Successfully registered activation hotkey after delay: #h
+Debug: apr-19 08:43:02: Starting to load word frequency data
+Debug: apr-19 08:43:02: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-19 08:43:03: Word frequency data loaded - Unique words: 89581
+Debug: apr-19 08:43:03: Duplicate entries found: 0
+Debug: apr-19 08:43:03: Skipped lines: 0
+Debug: apr-19 08:58:28: ======[SCRIPT START]======
+Debug: apr-19 08:58:28: In UI class, at top of _CreateExamPane()
+Debug: apr-19 08:58:28: In UI class, at top of _CreateControlPane()
+Debug: apr-19 08:58:28: Successfully registered activation hotkey after delay: #h
+Debug: apr-19 08:58:28: Starting to load word frequency data
+Debug: apr-19 08:58:28: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-19 08:58:28: Word frequency data loaded - Unique words: 89581
+Debug: apr-19 08:58:28: Duplicate entries found: 0
+Debug: apr-19 08:58:28: Skipped lines: 0
+Debug: apr-19 11:24:08: ======[SCRIPT START]======
+Debug: apr-19 11:24:08: In UI class, at top of _CreateExamPane()
+Debug: apr-19 11:24:08: In UI class, at top of _CreateControlPane()
+Debug: apr-19 11:24:09: Successfully registered activation hotkey after delay: #h
+Debug: apr-19 11:24:09: Starting to load word frequency data
+Debug: apr-19 11:24:09: Reading word frequency CSV file: ..\Data\unigram_freq_list_filtered_89k.csv
+Debug: apr-19 11:24:09: Word frequency data loaded - Unique words: 89581
+Debug: apr-19 11:24:09: Duplicate entries found: 0
+Debug: apr-19 11:24:09: Skipped lines: 0

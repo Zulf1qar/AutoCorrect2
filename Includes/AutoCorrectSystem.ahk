@@ -74,7 +74,7 @@ f(replace := "") {
     SendInput("{BS " (TrigLen - ignorLen) "}" replace endchar) ; Type replacement and endchar. 
     
     HSInputBuffer.Stop()
-    If (Config.BeepOnAutoCorrection = 1)
+    If (Config.BeepOnAutoCorrection = 1) and false  ; disabled SLIMURAI 2026-04-18
         SoundBeep(900, 60) ; Notification of replacement.
         
     ; Only set up logging if it's enabled
@@ -625,7 +625,7 @@ fix_consecutive_caps() {
 			else if (char3 ~= "[a-z]")  ; If char is lowercase alpha.
 			|| ((char3 = A_Space && char1 char2 ~= "OF|TO|IN|IT|IS|AS|AT|WE|HE|BY|ON|BE|NO") && Config.CapFixTwoLetterWords)
 			{	SendInput("{BS 2}" StrLower(char2) char3)
-                If Config.BeepOnCapFix {
+            If Config.BeepOnCapFix and false {  ; disabled SLIMURAI 2026-04-18
                     SoundBeep(800, 80) ; Case fix announcent. 
                 }
 			}

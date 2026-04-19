@@ -208,8 +208,8 @@ peekToolTip(*) { ; sneak-a-peek at working variables.
    ToolTip(,,,8)        ; Right-click notificiation.
 }
 
-soundBeep(1600, 75) 
-soundBeep(1700, 50) ; startup announcement
+; soundBeep(1600, 75) 
+; soundBeep(1700, 50) ; startup announcement -- disabled by SLIMURAI 2026-04-18
 
 ; This creates the inputHook that actually watches the keypresses. 
 tih := InputHook('L0 V I2'), typoCache := ""

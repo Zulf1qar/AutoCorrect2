@@ -509,7 +509,7 @@ UpTime(*) { ; Uptime -- time since Windows restart
 SetupTrayMenu()
 
 ; Startup announcement
-if Config.BeepOnStartup {
+if Config.BeepOnStartup and false {  ; disabled SLIMURAI 2026-04-18
     SoundBeep(900, 200)
     SoundBeep(1100, 150)
 }
