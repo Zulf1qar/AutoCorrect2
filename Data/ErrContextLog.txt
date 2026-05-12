@@ -467,3 +467,8 @@ Date Y-M-D	item			context
 2026-05-11 << :*?:cuture::culture	---> focsed[ - [on[ - [ < [ < [restrcutuure[ < [ < [ < [re[ < [ructure.] - ]
 2026-05-11 << :C:ths::the		---> [ < [ < [You[ - [are[ - [PM[ - [on[ - [ths[ - [ < [is,] - ]your] - ]choice.] - ]
 2026-05-11 << :*C?:exx::ess		---> locked[ - [bucs[ < [ < [ < [cus[ - [of[ - [contexxt[ < [t.] - ]Yes] - ]lets] - ]keep] - ]move] - ]on] - ]to] - ]
+2026-05-12 << :?C:ooes::oos		---> [ < [r[ < [ < [rom[ - [opencode-agents[ - [dooes[ - [ < [es] - ]anything] - ]in] - ]there] - ]should] - ]be] - ]named] - ]
+2026-05-12 << :*:allr::alr		---> i[ - [ < [mark[ - [for[ - [download?[Enter[Well[ - [its[ - [allr[ < [ready] - ]installed] - ]
+2026-05-12 << :*C?:exx::ess		---> [ < [ < [kl[ < [flow_checklist[ - [and[ - [write[ - [nes[ < [xx[ < [xt] - ]
+2026-05-12 << :*C?:exx::ess		---> [ - [Tab[Tab[run[ - [acled[Enter[Read[ - [and[ - [exxe[ < [xecute] - ]ks] - ]in] - ]
+2026-05-12 << :*C?:exx::ess		---> as[ - [done.[ - [Double[ - [check[ - [all[ - [tasks[ - [been[ - [exxe[ < [xecuted] - ]
