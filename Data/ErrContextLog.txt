@@ -486,3 +486,7 @@ Date Y-M-D	item			context
 2026-05-14 << :C:tha::the		---> we[ - [have[ - [everythng[ - [from[ - [it[ - [tha[ - [ < [at] - ]was] - ]usefull] - ]dd] - ]it] - ]to] - ]cclaude] - ]
 2026-05-14 << :*:tyo::to		---> [Tab[test[Enter[I[ - [need[ - [t[ < [you[ - [tyo[ < [] - ]o] - ]look] - ]into] - ]something] - ]i] - ]ing] - ]
 2026-05-14 << :?C:ooes::oos		---> rules[ - [Enter[yyes[ - [do[ - [it[ - [Enter[Doooes[ - [ < [es] - ]cline] - ]needs] - ]to] - ]havvee] - ]
+2026-05-14 << :*C:i ::I 		---> foor[ - [ex[ - [cong[ < [flictmonitor,[ - [whewn[ - [i[ - [ < [n] - ]i] - ] - ]too] - ]save] - ]debrief] - ]you] - ]
+2026-05-14 << :*:ened::need		---> kind[ - [of[ - [tasks[ - [ < [.[ - [it[ - [eneded[ - [ < [ded] - ]up] - ]halusinating] - ]
+2026-05-14 << :*?:wierd::weird	---> [ < [ < [ < [ < [ < [Enter[wierd[ < [d] - ]skill.md] - ]uploaded] - ]but] - ]the] - ]zip] - ]file] - ]
+2026-05-14 << :*?:addm::adm		---> [ < [ < [ < [n[ < [ing[ - [and[ - [addmi[ < [ding] - ]more] - ]lines] - ]wont] - ]really] - ]fix] - ]the] - ]
