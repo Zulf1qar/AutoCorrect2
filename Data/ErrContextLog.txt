@@ -490,3 +490,8 @@ Date Y-M-D	item			context
 2026-05-14 << :*:ened::need		---> kind[ - [of[ - [tasks[ - [ < [.[ - [it[ - [eneded[ - [ < [ded] - ]up] - ]halusinating] - ]
 2026-05-14 << :*?:wierd::weird	---> [ < [ < [ < [ < [ < [Enter[wierd[ < [d] - ]skill.md] - ]uploaded] - ]but] - ]the] - ]zip] - ]file] - ]
 2026-05-14 << :*?:addm::adm		---> [ < [ < [ < [n[ < [ing[ - [and[ - [addmi[ < [ding] - ]more] - ]lines] - ]wont] - ]really] - ]fix] - ]the] - ]
+2026-05-14 << :*?:coudl::could	---> ref.md[ - [found[ - [in[ - [Enter[Enter[we[ - [just[ - [coudln[ < [dnt] - ]upload] - ]both] - ]file] - ]today] - ]foor] - ]
+2026-05-14 << :*?C:rht::rth		---> go[ - [anythin[ < [ < [ < [ < [ - [fut[ < [rht[ < [theerr] - ]r,] - ]what] - ]is] - ]the] - ]
+2026-05-15 << :*:noone::no one	---> [ < [ < [for[ - [me[ - [as[ - [a[ - [noone[ - [ < [ne] - ]coder,] - ]i] - ]just] - ]a] - ]
+2026-05-15 << :*?:rrri::rri		---> need[ - [to[ - [start[ - [sav[ < [ < [ < [wrrrrit[ < [iting] - ]bbriefin] - ]in] - ]a] - ]diff] - ]ayy] - ] - ]
+2026-05-15 << :*:therr::their	---> [ < [ < [also[ - [checkk[ - [if[ - [therre[ - [ < [re] - ]is] - ]a] - ]gap] - ]to] - ]that] - ]needs] - ]
