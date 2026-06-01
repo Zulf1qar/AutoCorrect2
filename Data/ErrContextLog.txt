@@ -592,3 +592,15 @@ Date Y-M-D	item			context
 2026-05-29 << :*C:i ::I 		---> [ < [..m[ < [ < [md[ - [alsso[ - [i[ - [ < [am] - ]not] - ]suree] - ]when] - ]and] - ]howw] - ]often] - ]
 2026-05-29 << :*:with out::without	---> to[ - [uupdate[ - [live[ - [s[ < [ < [_state[ - [with[ - [outl[ < [] - ]outline] - ]and] - ]litellm] - ]make] - ]sure] - ]
 2026-05-30 << :*C:i ::I 		---> [ < [,[ - [if[ - [needed[ - [at[ - [al[ - [i[ - [ < [l] - ]yoou] - ]make] - ]the] - ]
+2026-05-30 << :*?:baly::bally	---> [ < [ - [is[ - [installled[ - [c[ < [globaly[ - [ < [yy] - ]or] - ]if] - ]it] - ]installed] - ]via] - ]the] - ]
+2026-05-30 << :*?:baly::bally	---> [ < [ < [ < [the[ - [plugin[ - [globaly[ - [ < [y] - ]and] - ]take] - ]it] - ]from] - ]there.] - ]oorr] - ]
+2026-05-30 << :*:a il::an il		---> also[ - [in[ - [vault[ - [we[ - [have[ - [a[ - [il[ < [] - ]file] - ]called] - ]mcp-servers] - ]whicch] - ]include] - ]all] - ]
+2026-05-30 << :*:thier::their	---> [ < [ < [ < [ < [ < [ < [ < [thierr[ < [
+2026-05-30 << :?C:ooes::oos		---> thing[ - [camee[ - [to[ - [my[ - [mind,[ - [dooes[ - [ < [oes] - ]what] - ]we] - ]sensei] - ]task] - ]iter] - ]skill] - ]
+2026-05-31 << :?:donly::dally	---> i[ < [eir[ - [is[ - [issue[ - [here[ - [Enter[appendonly[ - [ < [.] - ]never] - ]readthen] - ]before] - ]appending] - ]
+2026-05-31 << :*C:i ::I 		---> [ < [s,[ - [ < [ < [.[ - [i[ - [ < [i] - ]ing] - ]if] - ]sensei] - ]task] - ]writer] - ]should] - ]
+2026-05-31 << :*?C:ckks::cks		---> time[ - [check[ - [if[ - [ < [ < [ < [for[ - [backks[ < [
+2026-05-31 << :*:consin::contin	---> e[ < [ < [ < [ever[ - [other[ - [rules[ - [to[ - [consinder[ < [sider.] - ]
+2026-05-31 << :?C:thh::th		---> _ref[ - [when[ - [i[ - [upload[ - [it[ - [thh[ - [ < [claude] - ]ai] - ]says] - ]something] - ]it] - ] - ]only] - ]
+2026-06-01 << :*?:consic::consc	---> [ < [rules[ - [ - [can[ - [be[ - [more[ - [consicc[ < [ic] - ]written] - ] - ]in] - ]a] - ]guage] - ]that] - ]
+2026-06-01 << :*C:i ::I 		---> impbatch[ - [exe[ < [batch[ - [exeNo[ - [need[ - [i[ - [ < [for] - ] - ]and] - ].] - ]i] - ] - ]added] - ]
