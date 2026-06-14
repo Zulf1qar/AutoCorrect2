@@ -646,3 +646,5 @@ Date Y-M-D	item			context
 2026-06-12 << :*:tyo::to		---> is[ - [wrong?[ - [ - [last[ - [at[ - [you[ - [ < [you] - ]tired] - ]to] - ]rried] - ]to] - ]run] - ]linux] - ]
 2026-06-12 << :*?:aall::all		---> in[ - [order.[ - [Enter[DoublDouble[ - [e[ < [check[ - [aall[ - [ < [l] - ]tasks] - ]been] - ]executed] - ]
 2026-06-13 << :*C:i ::I 		---> break[ - [anything[ - [Enter[ < [VaultMind[ - [i[ - [ < [eed] - ]to] - ]you] - ]check] - ]to] - ]writte] - ]me] - ]
+2026-06-13 << :*C:i ::I 		---> [ < [ < [oa[ < [ < [oadmap[ - [i[ - [ < [also] - ]there] - ]is] - ]already] - ]a] - ]dmap] - ]in] - ]
+2026-06-14 << :*:varit::variet	---> [ < [ < [ < [ < [ < [har[ - [varit[ - [ < [t] - ]på] - ]smärtrehab] - ]hela] - ]veckan] - ].] - ]
