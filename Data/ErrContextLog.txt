@@ -663,3 +663,6 @@ Date Y-M-D	item			context
 2026-06-20 << :*C:i ::I 		---> one[ - [and[ - [vva[ < [a[ < [ < [aultmind[ - [i[ - [ < [mcp] - ]only] - ]have] - ]direct] - ] - ]
 2026-06-21 << :*?C:thtt::that	---> -[ < [.i[ - [u[ - [ < [r[ - [help[ - [withtt[ < [] - ]something] - ]hen] - ]glm] - ]is] - ]ng] - ]to] - ]
 2026-06-21 << :*?:thhing::tching	---> or[ - [at[ - [least[ - [increase[ - [he[ - [timeout[ - [thhing[ < [hings] - ]like] - ]tthis] - ]needs] - ]to] - ]be] - ]though] - ]
+2026-06-21 << :*C:otu::out		---> ouut[ - [ < [ < [ < [ < [tt[ < [u[ < [t] - ]how] - ]we] - ]can] - ]use] - ]it] - ]annd] - ]
+2026-06-21 << :*C:i ::I 		---> it[ - [hits[ - [time[ - [oui[ < [t,[ - [i[ - [ < [other] - ]ssues] - ],] - ]we] - ]do] - ]it] - ]ourselfs] - ]
+2026-06-21 << :*?:ovle::ovel		---> upgrading[ - [ - [Me[ < [ < [Next.js[ - [sovle[ - [ < [lve] - ]iis??] - ]if] - ]yes] - ]then] - ]grade] - ]it] - ]

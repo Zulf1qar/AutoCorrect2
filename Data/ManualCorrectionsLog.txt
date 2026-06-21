@@ -6425,3 +6425,15 @@ Capture Date	Formatted Hotstring
 2026-06-21 -- ::haee::have
 2026-06-21 -- ::wwhe::when
 2026-06-21 -- ::taskk::task
+2026-06-21 -- ::ouutlne::outline
+2026-06-21 -- ::wayt::way
+2026-06-21 -- ::wwha::what
+2026-06-21 -- ::yto::we
+2026-06-21 -- ::channge::change
+2026-06-21 -- ::forggoten::forgotten
+2026-06-21 -- ::lastt::later
+2026-06-21 -- ::oui::out
+2026-06-21 -- ::sttared::started
+2026-06-21 -- ::ttaks::takes
+2026-06-21 -- ::tto::to
+2026-06-21 -- ::wwith::with
