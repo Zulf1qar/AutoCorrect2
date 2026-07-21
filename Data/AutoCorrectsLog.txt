@@ -9463,3 +9463,40 @@ YYYY-MM-DD date format. ‘<<’ indicates that Backspace was pressed right after, ‘
 2026-07-20 << :*:dont::don't
 2026-07-20 -- :*:dont::don't
 2026-07-20 -- :*C:i ::I 
+2026-07-20 -- :?C:thh::th
+2026-07-20 << :*C:i ::I 
+2026-07-20 << :?C:thh::th
+2026-07-20 -- :*?:inng::ing
+2026-07-21 -- :*?:wherre::where
+2026-07-21 -- :*C?:daed::dead
+2026-07-21 -- :*:thats::that's
+2026-07-21 -- :*:didnt::didn't
+2026-07-21 -- :*C:i ::I 
+2026-07-21 << :*:didnt::didn't
+2026-07-21 -- :*?:boundr::boundar
+2026-07-21 -- :*C:i ::I 
+2026-07-21 << :*?:reffer::refer
+2026-07-21 -- :*C:i ::I 
+2026-07-21 << :*?:fferr::ffer
+2026-07-21 -- :*:tthe::the
+2026-07-21 << :*:tthe::the
+2026-07-21 -- :*C:i ::I 
+2026-07-21 << :*?:nefica::neficia
+2026-07-21 -- :*:more then::more than
+2026-07-21 -- :*C:i ::I 
+2026-07-21 -- :*C:i ::I 
+2026-07-21 -- :*C:i ::I 
+2026-07-21 -- :*:tthe::the
+2026-07-21 << :*:tthe::the
+2026-07-21 -- :*C:i ::I 
+2026-07-21 -- ::it self::itself
+2026-07-21 -- :*C:i ::I 
+2026-07-21 -- :*:thats::that's
+2026-07-21 << :*C:i ::I 
+2026-07-21 -- :*:dont::don't
+2026-07-21 << :?C:thh::th
+2026-07-21 -- :*?:nsistan::nsisten
+2026-07-21 -- :*?:inng::ing
+2026-07-21 -- :*:tthe::the
+2026-07-21 -- :*:tthe::the
+2026-07-21 -- :*?:archetect::architect

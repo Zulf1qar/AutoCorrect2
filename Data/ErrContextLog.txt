@@ -818,3 +818,6 @@ Date Y-M-D	item			context
 2026-07-19 << :?:withh::which	---> [ < [o[ - [iww[ < [ < [ < [withh[ - [ < [ith] - ]the] - ]pro] - ],] - ]thte] - ]t] - ]way,] - ]
 2026-07-20 << :*?:menat::menta	---> [ - [fiind[ - [a[ - [p[ < [good[ - [permenat[ - [ < [at] - ]x] - ]for] - ]it] - ],] - ]if] - ]we] - ]
 2026-07-20 << :*:dont::don't		---> [ < [ < [ < [ < [ < [EDontt[ - [ < [] - ]t] - ]t] - ] - ] - ]to] - ]load] - ]
+2026-07-21 << :*?:reffer::refer	---> tgi[ < [ < [ing[ - [sensei[ - [u[ - [preffer[ - [ < [i] - ]er] - ]sensei] - ]tto] - ]do] - ]ii] - ]annd] - ]
+2026-07-21 << :*:tthe::the		---> ion[ - [Enter[While[ - [ - [you[ - [are[ - [in[ - [tthe[ < [erer] - ] - ]check] - ]ii] - ]everythingg] - ]
+2026-07-21 << :*?:nefica::neficia	---> use[ - [SESSIONS[ - [in[ - [a[ - [benefia[ < [ < [ica[ < [al] - ]way,] - ]its] - ]time] - ]we] - ]take] - ]SESSIONS] - ]
