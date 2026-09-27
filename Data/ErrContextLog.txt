@@ -971,3 +971,10 @@ Date Y-M-D	item			context
 2026-09-26 << :*C?:exx::ess		---> now.[ - [Enter[[Enter[Enter[Enter[c[Enter[Tab[/exx[ < [
 2026-09-26 << ::thas::this		---> focus[ - [on[ - [everything[ - [else[ - [that[ - [has[ - [ < [has] - ]to] - ]be] - ]done] - ]without] - ]GLM] - ]..] - ]
 2026-09-26 << :*?:ruy::ury		---> everuutjoom[ < [ < [ < [ < [ < [ < [y[ < [ything] - ]you] - ]see] - ]in] - ]settings..jjson] - ]and] - ]json] - ]
+2026-09-27 << :*C:i ::I 		---> is[ - [the[ - [result[ - [frå[ < [om[ - [stopgate-live-test[ - [i[ - [ < [,] - ] - ]gllm] - ]m] - ] - ]just] - ]
+2026-09-27 << :*C:i ::I 		---> [Enter[Done,[ - [ccl[ < [ < [ < [i[ - [ < [added] - ]the] - ]repo,,] - ]and] - ]the] - ].claude] - ]folder] - ]
+2026-09-27 << :*?:annn::ann		---> end[ - [take[ - [a[ - [look[ - [at[ - [userpre[ - [annnd[ - [ < [
+2026-09-27 << :?C:thh::th		---> [ < [date[ - [ < [d[ - [with[ - [thh[ - [ < [e] - ]new] - ]draft,] - ]you] - ]might] - ] - ]be] - ]
+2026-09-27 << :*C:i ::I 		---> youu[ - [are[ - [looking[ - [fforr,[ - [also[ - [i[ - [ < [since] - ]i] - ]is] - ] - ]i] - ]t] - ]updated] - ]
+2026-09-27 << :*C:i ::I 		---> donnt[ - [reply[ - [ < [,[ - [so[ - [i[ - [ < [thh] - ]e] - ]word] - ]if] - ]youuu] - ]dont] - ]y] - ]
+2026-09-27 << :?:withh::which	---> its[ - [been[ - [really[ - [smooth[ - [and[ - [withh[ - [ < [with] - ]little] - ]misstakes] - ],] - ]i] - ] - ]switch] - ]
